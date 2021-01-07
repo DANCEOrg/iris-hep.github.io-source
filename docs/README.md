@@ -17,3 +17,6 @@ bundle install
 bundle exec rake serve
 ```
 
+## Tentative Instructions for Building a Website with Jekyll and GH-Pages
+[click here](https://github.com/tosin-da-glitch/iris-hep.github.io-source/docs/WebsiteSetupGit&Jekyll.docx)
+

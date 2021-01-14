@@ -2,7 +2,7 @@
 
 Is this badge red? Click on it to find whats wrong with the repository...
 
-# iris-hep.org Website Source
+# DANCEOrg.org Website Source
 
 GitHub pages for IRIS-HEP project website.
 
